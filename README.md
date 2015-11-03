@@ -1,10 +1,10 @@
-# <fractalrabbit.com>
+# [Fractalrabbit.com](http://www.fractalrabbit.com)
 
 Blog 'n' stuff, using `hugo`
 
 ## Install
 
- __First___:
+ __First__:
 
 1. `brew install hugo`
 1. `mkdir fractalrabbit.com && cd fractalrabbit.com && hugo new site .`
@@ -19,4 +19,4 @@ __Second__:
 
 __Third__:
 
-Browse to <localhost:1313>
+Browse to [http://localhost:1313](http://localhost:1313)
