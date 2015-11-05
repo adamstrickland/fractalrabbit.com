@@ -1,0 +1,6 @@
+baseurl: http://fractalrabbit.com
+languageCode: en-us
+title: The Fractal Rabbit
+theme: hugo-redlounge
+params:
+  subtitle: shamelessly riding on the coattails of cute animals and tricky math

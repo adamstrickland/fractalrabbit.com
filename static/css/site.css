@@ -1,0 +1,14 @@
+div.sidebar {
+  /* background-image: url("../img/hyperspace-fractal-s4.png"); */
+}
+
+section#title>div.title {
+  font-weight: bold;
+  font-size: x-large;
+  text-transform: uppercase;
+}
+
+section#title>div.subtitle {
+  font-size: x-small;
+  padding-bottom: 1em;
+}

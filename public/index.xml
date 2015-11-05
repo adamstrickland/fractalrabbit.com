@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title> on The Fractal Rabbit: shamelessly riding on the coattails of cute animals and tricky math </title>
-      <generator uri="https://gohugo.io">Hugo</generator>
+    <title>The Fractal Rabbit</title>
     <link>http://localhost:1313/</link>
+    <description>Recent content on The Fractal Rabbit</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    
-    
-    <updated>Mon, 02 Nov 2015 10:39:50 CST</updated>
+    <lastBuildDate>Mon, 02 Nov 2015 10:39:50 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>welcome</title>
       <link>http://localhost:1313/post/welcome/</link>
-      <pubDate>Mon, 02 Nov 2015 10:39:50 CST</pubDate>
+      <pubDate>Mon, 02 Nov 2015 10:39:50 -0600</pubDate>
       
       <guid>http://localhost:1313/post/welcome/</guid>
       <description>&lt;p&gt;Dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare
