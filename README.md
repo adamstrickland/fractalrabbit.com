@@ -10,7 +10,7 @@ Blog 'n' stuff, using `hugo`
 1. `mkdir fractalrabbit.com && cd fractalrabbit.com && hugo new site .`
 1. `git clone git@github.com:SenjinDarashiva/hugo-uno.git themes/hugo-uno`
 1. `hugo new post/welcome.md`
-1. `hugo server -W`
+1. `hugo server -w`
 
 __Second__:
 
