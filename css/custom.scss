@@ -31,19 +31,11 @@ body {
     font-size: 12px;
   }
 
-  footer {
-    a {
+  a {
+    color: $link-color !important;
+
+    &:visited {
       color: $link-color;
-
-      &:visited {
-        color: $link-color;
-      }
-    }
-  }
-
-  header {
-    a {
-      color: $link-color !important;
     }
   }
 }

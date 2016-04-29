@@ -2,8 +2,10 @@
 layout: post
 title:  Let's Get This Party Started
 date:   2016-04-22 16:30:00 -0500
-categories: 
+category: 
+tags:
 ---
+
 Today represents a scary day for me.  This post, this brief message, is, for me, anxiety-inducing.
 
 Writing for me has always been a solitary activity.  Not that I've ever been prolific.  At best, I tend to be judicious with my use of words.  And over the last 15 years, I've preferred to proselytize in [Ruby](http://www.ruby-lang.org), [Java](http://java.com), and [C++](http://www.cplusplus.com), rather than in English.  However, for a couple of reasons, that absence needs to come to its end.
