@@ -1,7 +1,5 @@
-# s3_id: <%= ENV["S3_ID"] %>
-s3_id: 01Z2BVCDEKPAC542QDR2
-s3_secret: 7co4ergV366noYOoRWK7C9VudpBqf4/VRRRsU0tM
-# s3_secret: <%= ENV["S3_SECRET"] %>
+s3_id: <%= ENV["AWS_ACCESS_KEY_ID"] %>
+s3_secret: <%= ENV["AWS_SECRET_ACCESS_KEY"] %>
 s3_bucket: www.fractalrabbit.com
 
 # Below are examples of all the available configurations.

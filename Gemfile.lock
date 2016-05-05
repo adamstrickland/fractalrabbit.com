@@ -10,6 +10,7 @@ GEM
     configure-s3-website (1.7.3)
       deep_merge (~> 1.0.0)
     deep_merge (1.0.1)
+    dotenv (2.1.1)
     erubis (2.7.0)
     ffi (1.9.10)
     filey-diff (1.4.3)
@@ -38,6 +39,7 @@ GEM
     mini_portile2 (2.0.0)
     nokogiri (1.6.7.2)
       mini_portile2 (~> 2.0.0.rc2)
+    rake (10.4.2)
     rb-fsevent (0.9.7)
     rb-inotify (0.9.7)
       ffi (>= 0.5.0)
@@ -62,8 +64,10 @@ PLATFORMS
 
 DEPENDENCIES
   deep_merge
+  dotenv
   jekyll
   jekyll-mermaid
+  rake
   s3_website
 
 BUNDLED WITH
