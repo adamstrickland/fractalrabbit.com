@@ -1,0 +1,41 @@
+---
+---
+@charset "utf-8";
+
+$link-color: #7Df9ff;
+$title-color: $link-color;
+
+@font-face {
+  font-family: 'Inconsolata';
+  src: url('/fonts/inconsolata.eot');
+  src: local('☺'),
+       url('/fonts/inconsolata.woff') format('woff'),
+       url('/fonts/inconsolata.ttf') format('truetype'),
+       url('/fonts/inconsolata.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@mixin fonty-font {
+  font-family: Inconsolata;
+}
+
+body {
+  @include fonty-font;
+
+  h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    @include fonty-font;
+  }
+
+  .footer-col-wrapper {
+    font-size: 12px;
+  }
+
+  a {
+    color: $link-color !important;
+
+    &:visited {
+      color: $link-color;
+    }
+  }
+}
