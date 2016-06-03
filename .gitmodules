@@ -1,6 +1,0 @@
-[submodule "themes/hugo-uno"]
-	path = themes/hugo-uno
-	url = git@github.com:SenjinDarashiva/hugo-uno.git
-[submodule "themes/hugo-redlounge"]
-	path = themes/hugo-redlounge
-	url = git@github.com:tmaiaroto/hugo-redlounge.git
