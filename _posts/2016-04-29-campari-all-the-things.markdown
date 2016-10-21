@@ -23,7 +23,7 @@ I know, blasphemy.  But in a world where everythihng is derivative, why the fuck
 
 Likely the best-known derivative of the Negroni is the highly-esteemed Boulevardier.  It is my opinion that there are times when this is the better beverage of the two.  However, due to the violence inherent in Bourbon, I have found the margin of error when mixing a Boulevardier to be much narrower.  In other words, they can be fantastic, but it is much easier to fuck this one up.
 
-If I'm out and about, I will really only order a Boulevardier from a bartender that I trust.  I mean, it's not like [Bourdain's advice on mussels](), but it's close, amirite?  In all seriousness, no one's going to die, of course, but it's hard to fuck up a Negroni - equal parts, heavy as you wanna be - so why risk it?  That being said, man, it can be eye-opening.
+If I'm out and about, I will really only order a Boulevardier from a bartender that I trust.  I mean, it's not like [Bourdain's advice on mussels](https://www.theguardian.com/books/2000/aug/12/features.weekend1), but it's close, amirite?  In all seriousness, no one's going to die, of course, but it's hard to fuck up a Negroni - equal parts, heavy as you wanna be - so why risk it?  That being said, man, it can be eye-opening.
 
 ---
 
