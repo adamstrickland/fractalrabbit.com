@@ -1,5 +1,7 @@
 source "https://rubygems.org"
 
+gem "pkg-config", "~> 1.1.7"
+gem "nokogiri", "~> 1.6.7.2"
 gem "jekyll"
 gem "jekyll-mermaid"
 gem "deep_merge"
